@@ -3,7 +3,7 @@
 - 💻 Python/C(základy)
 - 👨‍💻 Batch/Shell(základy)
 - 🌐 HTML/CSS
-- ⚡ SQL
+- ⚡ SQL(základy)
 - 👾 Cyber
 
 ## Kontakt
