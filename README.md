@@ -1,9 +1,9 @@
 # Kroufino
 
-- 💻 Python/C(základy)
-- 👨‍💻 Batch/Shell(základy)
+- 💻 Python/C
+- 👨‍💻 Batch/Shell
 - 🌐 HTML/CSS
-- ⚡ SQL(základy)
+- ⚡ SQL
 - 👾 Cyber
 
 ## Kontakt
